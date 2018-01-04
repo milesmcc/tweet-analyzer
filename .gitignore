@@ -1,0 +1,4 @@
+notebooks/credentials.json
+notebooks/data/*
+notebooks/.DS_Store
+.DS_Store
